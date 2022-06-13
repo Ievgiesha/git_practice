@@ -2,3 +2,4 @@
  Babka jajowata Targroch 500 g
  Babka jajowata Targroch 500 g
  Babka jajowata Targroch 500 g
+rm -f ./.git/index.lockrm -f ./.git/index.lock
